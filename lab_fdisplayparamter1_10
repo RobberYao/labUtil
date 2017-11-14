@@ -1,0 +1,10 @@
+UPDATE lab_fdisplayparamter lab SET lab.DISTEMPERATURE = 29.42 ,lab.DISHUMIDITY = 68.63 where lab.ID = 1 ;
+UPDATE lab_fdisplayparamter lab SET lab.DISTEMPERATURE = 28.68 ,lab.DISHUMIDITY = 63.84 where lab.ID = 2 ;
+UPDATE lab_fdisplayparamter lab SET lab.DISTEMPERATURE = 29.71 ,lab.DISHUMIDITY = 64.04 where lab.ID = 3 ;
+UPDATE lab_fdisplayparamter lab SET lab.DISTEMPERATURE = 29.42 ,lab.DISHUMIDITY = 70.05 where lab.ID = 4 ;
+UPDATE lab_fdisplayparamter lab SET lab.DISTEMPERATURE = 28.60 ,lab.DISHUMIDITY = 63.91 where lab.ID = 5 ;
+UPDATE lab_fdisplayparamter lab SET lab.DISTEMPERATURE = 29.08 ,lab.DISHUMIDITY = 69.95 where lab.ID = 6 ;
+UPDATE lab_fdisplayparamter lab SET lab.DISTEMPERATURE = 29.12 ,lab.DISHUMIDITY = 65.65 where lab.ID = 7 ;
+UPDATE lab_fdisplayparamter lab SET lab.DISTEMPERATURE = 28.81 ,lab.DISHUMIDITY = 63.04 where lab.ID = 8 ;
+UPDATE lab_fdisplayparamter lab SET lab.DISTEMPERATURE = 28.49 ,lab.DISHUMIDITY = 66.98 where lab.ID = 9 ;
+UPDATE lab_fdisplayparamter lab SET lab.DISTEMPERATURE = 29.26 ,lab.DISHUMIDITY = 61.34 where lab.ID = 10 ;
